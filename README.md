@@ -1,5 +1,32 @@
 # RealmVoyager Launcher Updates
 
+## Current release: Conquest of Azeroth
+
+Download the [latest CoA launcher](https://github.com/Dopey99101/wow-3.3.5a-launcher-updates/releases/tag/coa-launcher-1.2) and choose **RealmVoyager-CoA-Launcher-1.2.rar** under Assets. The Source code archives are not the launcher.
+
+This version requires the separate **CoA game containing Ascension.exe**.
+
+1. Close the game and launcher.
+2. Extract all four files from the launcher RAR into the CoA game folder, beside **Ascension.exe**.
+3. Choose **Replace files** when prompted.
+4. Connect Tailscale and open **RealmVoyager-CoA.exe**.
+5. Click **Check updates**, then **Play CoA** when the host is online. Use your existing game login.
+
+The launcher downloads approved, signed CoA addon updates from the existing GitHub update repositories. It preserves personal settings and other addons. Close the game before updating. Larger game patches and future launcher replacements may require separate downloads.
+
+This launcher-only RAR does not include the full game or convert an old Wrath client into CoA. Keep CoA separate from Original/UltraHD clients.
+
+## Earlier Original/UltraHD launcher
+
+The [earlier Wrath launcher release](https://github.com/Dopey99101/wow-3.3.5a-launcher-updates/releases/tag/launcher) remains available for its original clients. Its installation instructions differ from CoA.
+
+<!-- coa-launcher-guidance -->
+
+<details>
+<summary>Earlier Original/UltraHD installation guide</summary>
+
+# RealmVoyager Launcher Updates
+
 The home for **RealmVoyager launcher updates for World of Warcraft 3.3.5a**.
 
 Find new launcher releases here, including updated artwork, layout improvements, new features, and bug fixes for a smoother experience with your Original or UltraHD client.
@@ -47,3 +74,5 @@ For a newly installed client downloaded through RealmVoyager, you must click **C
 - A compatible WoW 3.3.5a build 12340 Original or UltraHD client, or a client installed through RealmVoyager's supported installation controls.
 
 RealmVoyager uses on-screen buttons and menus. It has no in-game slash or chat commands.
+
+</details>
