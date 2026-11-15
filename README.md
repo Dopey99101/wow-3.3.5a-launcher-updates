@@ -2,7 +2,9 @@
 
 ## Current release: Conquest of Azeroth
 
-Download the [latest CoA launcher](https://github.com/Dopey99101/wow-3.3.5a-launcher-updates/releases/tag/coa-launcher-1.2) and choose **RealmVoyager-CoA-Launcher-1.2.rar** under Assets. The Source code archives are not the launcher.
+Download the [latest CoA launcher](https://github.com/Dopey99101/wow-3.3.5a-launcher-updates/releases/tag/coa-launcher-1.3) and choose **RealmVoyager-CoA-Launcher-1.3.rar** under Assets. The Source code archives are not the launcher.
+
+Launcher 1.3 adds realm news, including the updated heirloom seller. Players using 1.2 need this small launcher replacement once; future notes can then appear when opening the launcher.
 
 This version requires the separate **CoA game containing Ascension.exe**.
 
