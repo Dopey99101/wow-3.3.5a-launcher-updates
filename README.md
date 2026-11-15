@@ -2,9 +2,9 @@
 
 ## Current release: Conquest of Azeroth
 
-Download the [latest CoA launcher](https://github.com/Dopey99101/wow-3.3.5a-launcher-updates/releases/tag/coa-launcher-1.3) and choose **RealmVoyager-CoA-Launcher-1.3.rar** under Assets. The Source code archives are not the launcher.
+Download the [latest CoA launcher](https://github.com/Dopey99101/wow-3.3.5a-launcher-updates/releases/tag/coa-launcher-1.4) and choose **RealmVoyager-CoA-Launcher-1.4.rar** under Assets. The Source code archives are not the launcher.
 
-Launcher 1.3 adds realm news, including the updated heirloom seller. Players using 1.2 need this small launcher replacement once; future notes can then appear when opening the launcher.
+Launcher 1.4 updates itself from signed CoA releases and keeps showing realm news. Players using 1.2 or 1.3 need this small replacement once; future launcher updates then install automatically. Close the game and launcher before that first replacement.
 
 This version requires the separate **CoA game containing Ascension.exe**.
 
@@ -14,7 +14,7 @@ This version requires the separate **CoA game containing Ascension.exe**.
 4. Connect Tailscale and open **RealmVoyager-CoA.exe**.
 5. Click **Check updates**, then **Play CoA** when the host is online. Use your existing game login.
 
-The launcher downloads approved, signed CoA addon updates from the existing GitHub update repositories. It preserves personal settings and other addons. Close the game before updating. Larger game patches and future launcher replacements may require separate downloads.
+The launcher downloads approved, signed CoA addon updates from the existing GitHub update repositories. It preserves personal settings and other addons. Close the game before updating. Larger game patches may require separate downloads; future signed launcher updates install automatically from version 1.4 onward.
 
 This launcher-only RAR does not include the full game or convert an old Wrath client into CoA. Keep CoA separate from Original/UltraHD clients.
 
