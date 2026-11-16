@@ -1,6 +1,6 @@
 {
   "Schema": 1,
   "Channel": "coa",
-  "Title": "Hunters start with Auto Shot",
-  "Body": "New classic Hunters now learn Auto Shot automatically from level 1. Missing Auto Shot has also been restored for Maximlin and Erla. With Auto Attack/Auto Shot enabled in Combat settings, right-click an enemy within bow or gun range to begin firing.\n\nPREVIOUS UPDATE\n\nDarkmoon Faire is always open\n\nDarkmoon Faire is now open all the time in Elwynn Forest, Mulgore and Terokkar Forest. All three locations appear as ongoing events in the calendar. Reconnect and reopen your calendar to refresh it."
+  "Title": "Dungeon completion requires a full boss clear",
+  "Body": "Dungeon completion now waits until every regular boss in your selected dungeon or wing has been defeated. Rare spawns and optional summoned bosses are not required.\n\nPREVIOUS UPDATE\n\nHunters start with Auto Shot\n\nNew classic Hunters now learn Auto Shot automatically from level 1. Missing Auto Shot has also been restored for Maximlin and Erla. With Auto Attack/Auto Shot enabled in Combat settings, right-click an enemy within bow or gun range to begin firing.\n\nPREVIOUS UPDATE\n\nDarkmoon Faire is always open\n\nDarkmoon Faire is now open all the time in Elwynn Forest, Mulgore and Terokkar Forest. All three locations appear as ongoing events in the calendar. Reconnect and reopen your calendar to refresh it."
 }
